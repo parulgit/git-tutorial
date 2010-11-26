@@ -28,7 +28,7 @@ class MoviePlotGenerator {
 					
 	/**
 	 *
-	 * Get the plot of the next blockbuster action flick.
+	 * Get the plot of the next blockbusterflick.
 	 * 
 	 * @return string
 	 */
